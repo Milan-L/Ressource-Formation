@@ -10,7 +10,7 @@ Les trois grosses catégories principale seront :
 * CSS
 * JS
   
-Ces catégories contiendrons probablement d'autres sous catégorie n'hésité pas à les créer vous même si vous etes inspiré ! 
+Ces catégories contiendrons probablement d'autres sous catégorie n'hésité pas à les créer vous même si vous etes inspiré !  
   
   
 *Si vous le souhaitez, les ajouts et ou modification pertinente sont les bien venu.*
