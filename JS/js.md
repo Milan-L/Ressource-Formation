@@ -6,7 +6,7 @@ Les liens sont à trié dans l'ordre alpgabetique pour plus de lisibilité ainsi
 Vous pouvez également mettre la langue de la ressource à la fin du liens.
 
 ## Liste Pour les vidéos :   
-* https://www.youtube.com/watch?v=hu-q2zYwEYs - HTML & CSS Crash Course Tutorial (ENG) 
+* https://javascript.info/ - The Modern JavaScript Tutorial (Multi-lang) 
 * 
 * 
 * 
