@@ -5,7 +5,7 @@ Ce repo a pour but de rassembler toutes les ressources mise sur le discord de fa
 Chacun peut contribuer à ajouter ses propres ressources tant qu'elles restent pertinentes pour le groupe. 
   
 
-Les trois grosses catégories principales seront :  
+Les quatre grosses catégories principales seront :  
 * HTML
 * CSS
 * JS
