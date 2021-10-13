@@ -8,7 +8,8 @@ Les trois grosses catégories principales seront :
 * HTML
 * CSS
 * JS
-  
+* Tools
+
 Ces catégories contiendrons probablement d'autres sous catégories n'hésitez pas à les créer vous même si vous etes inspiré !  
   
   
