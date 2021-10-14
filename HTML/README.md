@@ -5,7 +5,7 @@ Bienvenu ici se trouverons tout les liens vers des sites ressources !
 Les liens sont à trié dans l'ordre alpgabetique pour plus de lisibilité ainsi que par type ! (vidéo, site,..)
 Vous pouvez également mettre la langue de la ressource à la fin du liens.
 
-## Liste Pour les vidéos :   
+## Liste Pour les Docs & sites :   
 * https://www.youtube.com/watch?v=hu-q2zYwEYs - HTML & CSS Crash Course Tutorial (ENG) 
 * [Règles générales des balises div vs section (htmhell.dev)](https://www.htmhell.dev/10-section-is-no-replacement-for-div/)
 * [Balise Article(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML/Element/article) VS [Balise Section(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML/Element/section)
@@ -17,7 +17,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du liens.
 * [Tutoriel pour débutants(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML#beginners_tutorials)
 * [Générateur de code couleurs](https://htmlcolorcodes.com/fr/ressources/meilleurs-generateurs-de-palette-de-couleur/)
 *
-## Liste Pour les vidéos :   
+## Liste Pour les tutos vidéos :   
 * [introduction html et css](https://youtu.be/hu-q2zYwEYs)
 * [Série formation html complète](https://ronan-hello.fr/series/html)
 * 
