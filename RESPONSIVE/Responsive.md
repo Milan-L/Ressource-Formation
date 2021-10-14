@@ -11,7 +11,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du liens.
 * 
 * 
   
-## Liste Pour les vidéos :   
+## Liste Pour les liens vers une docs/site :   
 * 
 * 
 * 
