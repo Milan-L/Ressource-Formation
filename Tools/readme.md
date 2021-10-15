@@ -1,18 +1,12 @@
-# Ressources JS de la formation.  
+# Outils de la formation.  
 
-Bienvenu ici se trouverons tout les liens vers des sites ressources !  
+Bienvenue vous trouverez ici une liste d'outils divers et utiles pour les développeurs !
 
-Les liens sont à trié dans l'ordre alpgabetique pour plus de lisibilité ainsi que par type ! (vidéo, site,..)
-Vous pouvez également mettre la langue de la ressource à la fin du liens.
+Les liens sont à trier dans l'ordre alphabétique pour plus de lisibilité ainsi que par type ! (vidéo, site,..)
+Vous pouvez également mettre la langue et le type de ressource à la fin du lien.
 
-## Liste Pour les docs/site :   
-* 
-* 
-* 
-* 
-  
-## Liste Pour les liens les tutos vidéo  :   
-* 
-* 
-* 
-* 
+## Liste Pour les Docs & sites :   
+
+* [Figma, outil de design et de maquettage collaboratif](https://www.figma.com/)
+* [Whimsical, outil de maquetage et de mapping](https://whimsical.com/)
+*

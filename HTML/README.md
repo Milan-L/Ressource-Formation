@@ -1,12 +1,12 @@
 # Ressources HTML de la formation.  
 
-Bienvenu ici se trouverons tout les liens vers des sites ressources !  
+Bienvenue ici se trouveront tous les liens vers des ressources utiles pour l'apprentissage et l'usage du HTML !  
 
-Les liens sont à trié dans l'ordre alpgabetique pour plus de lisibilité ainsi que par type ! (vidéo, site,..)
-Vous pouvez également mettre la langue de la ressource à la fin du liens.
+Les liens sont à trier dans l'ordre alphabétique pour plus de lisibilité ainsi que par type ! (vidéo, site,..)
+Vous pouvez également mettre la langue de la ressource à la fin du lien.
 
 ## Liste Pour les Docs & sites :   
-* https://www.youtube.com/watch?v=hu-q2zYwEYs - HTML & CSS Crash Course Tutorial (ENG) 
+* https://www.youtube.com/watch?v=hu-q2zYwEYs - HTML & CSS Crash Course Tutorial (ENG)
 * [Règles générales des balises div vs section (htmhell.dev)](https://www.htmhell.dev/10-section-is-no-replacement-for-div/)
 * [Balise Article(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML/Element/article) VS [Balise Section(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML/Element/section)
 * [Balise Article vs Section (StackOverflow)](https://stackoverflow.com/questions/7549561/section-vs-article-html5#:~:text=Sections%20DONT%20have%20to%20be,whole%20document%20is%20one%20article.)
@@ -20,5 +20,5 @@ Vous pouvez également mettre la langue de la ressource à la fin du liens.
 ## Liste Pour les tutos vidéos :   
 * [introduction html et css](https://youtu.be/hu-q2zYwEYs)
 * [Série formation html complète](https://ronan-hello.fr/series/html)
-* 
-* 
+*
+*
