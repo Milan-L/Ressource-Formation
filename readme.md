@@ -5,11 +5,14 @@ Ce repo a pour but de rassembler toutes les ressources mise sur le discord de fa
 Chacun peut contribuer à ajouter ses propres ressources tant qu'elles restent pertinentes pour le groupe. 
   
 
-Les quatre grosses catégories principales seront :  
+Les catégories principales sont :  
 * HTML
 * CSS
 * JS
 * Tools
+* Git
+* Github
+* Responsive
 
 Ces catégories contiendrons probablement d'autres sous catégories n'hésitez pas à les créer vous même si vous etes inspiré !  
   
