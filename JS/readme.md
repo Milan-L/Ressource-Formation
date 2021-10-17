@@ -13,10 +13,5 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 
 ## Liste Pour les liens vers les tutos vidéos :   
 *  https://javascript.info/ - The Modern JavaScript Tutorial (Multi-lang)
-<<<<<<< HEAD
 * [Série de tutoriels par CodeWithHarry pour apprendre le web avec HTML, CSS et Javascript](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
-=======
 *  https://www.youtube.com/watch?v=9OJLxDxyNg4&ab_channel=FromScratch-D%C3%A9veloppementWeb
->>>>>>> 23a5eb9f93cd1033bbde3a483718cd5a7e8c05f1
-*
-* 
