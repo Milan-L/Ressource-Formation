@@ -20,5 +20,4 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 ## Liste Pour les tutos vidéos :   
 * [introduction html et css](https://youtu.be/hu-q2zYwEYs)
 * [Série formation html complète](https://ronan-hello.fr/series/html)
-*
-*
+* [Série de tutoriels par CodeWithHarry pour apprendre le web avec HTML, CSS et Javascript](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)

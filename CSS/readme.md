@@ -25,5 +25,5 @@ Vous pouvez également mettre la langue de la ressource à la fin du liens.
 ## Liste Pour les vidéos :   
 * [Tutoriel SASS](https://youtu.be/_kqN4hl9bGc)
 * [Introduction HTML CSS](https://youtu.be/hu-q2zYwEYs)
-* 
+* [Série de tutoriels par CodeWithHarry pour apprendre le web avec HTML, CSS et Javascript](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 * 
