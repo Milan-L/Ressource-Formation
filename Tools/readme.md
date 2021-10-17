@@ -10,3 +10,8 @@ Vous pouvez également mettre la langue et le type de ressource à la fin du lie
 * [Figma, outil de design et de maquettage collaboratif](https://www.figma.com/)
 * [Whimsical, outil de maquetage et de mapping](https://whimsical.com/)
 *
+
+
+## Apprentissage du code en général :
+
+* [CodingGame Learn](https://www.codingame.com/learn)
