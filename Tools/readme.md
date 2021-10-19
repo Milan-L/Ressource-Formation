@@ -7,11 +7,12 @@ Vous pouvez également mettre la langue et le type de ressource à la fin du lie
 
 ## Liste Pour les Docs & sites :   
 
-* [Figma, outil de design et de maquettage collaboratif](https://www.figma.com/)
-* [Whimsical, outil de maquetage et de mapping](https://whimsical.com/)
-*
+* [[ENG] Figma, outil de design et de maquettage collaboratif](https://www.figma.com/)
+* [[ENG] Whimsical, outil de maquetage et de mapping](https://whimsical.com/)
+* [[ENG] Excalidraw, outil de dessins basiques avec possibilité de partager l'espace de travail](https://excalidraw.com/)
 
 
 ## Apprentissage du code en général :
 
 * [CodingGame Learn](https://www.codingame.com/learn)
+* [freeCodeCamp](https://www.freecodecamp.org/)
