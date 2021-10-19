@@ -10,6 +10,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 * [Le site Javascript.info, avec une série de cours à suivre](https://fr.javascript.info/)
 * [Une cheat sheet interractive pour le JS](https://htmlcheatsheet.com/js/)
 * [Codewars, un site rempli d'exercices d'algorithmie divers et de tous niveaux](https://www.codewars.com/)
+* [Tutoriel sur CodingGame pour apprendre le Javascript par la pratique](https://www.codingame.com/playgrounds/58617/javascript-par-la-pratique/introduction)
 
 ## Liste Pour les liens vers les tutos vidéos :   
 *  https://javascript.info/ - The Modern JavaScript Tutorial (Multi-lang)

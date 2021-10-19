@@ -11,7 +11,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 * [La même cheat sheet en français](https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf)
 * [Une cheat sheet, de atlassian.com, pour un rappel rapide des commandes essentielles de Git](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 * [La page de guides du site Github.com](https://guides.github.com/)
-* [
+* [[ENG]Oh Shit, Git!?! , un site qui aide à résoudre des problèmes courants dans Git](https://ohshitgit.com/)
 
 
 ## Liste Pour les liens vers les tutos vidéos : 
