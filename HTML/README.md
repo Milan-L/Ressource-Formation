@@ -16,7 +16,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 * [Toutes les références des balises(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML/Reference)
 * [Tutoriel pour débutants(MDN)](https://developer.mozilla.org/fr/docs/Web/HTML#beginners_tutorials)
 * [Générateur de code couleurs](https://htmlcolorcodes.com/fr/ressources/meilleurs-generateurs-de-palette-de-couleur/)
-*
+* [Excellent site pour apprendre en profondeur tous les aspects du dév web et gratuitement]https://www.freecodecamp.org/
 ## Liste Pour les tutos vidéos :   
 * [introduction html et css](https://youtu.be/hu-q2zYwEYs)
 * [Série formation html complète](https://ronan-hello.fr/series/html)
