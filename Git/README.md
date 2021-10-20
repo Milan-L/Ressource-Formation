@@ -10,7 +10,7 @@ Vous pouvez également mettre la langue de la ressource à la fin du lien.
 * [[ENG] La cheat sheet de Gitbub Education, pour un rappel rapide des commandes essentielles de Git](https://education.github.com/git-cheat-sheet-education.pdf)
 * [[FR] La même cheat sheet en français](https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf)
 * [[ENG] Une cheat sheet, de atlassian.com, pour un rappel rapide des commandes essentielles de Git](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-* [ENG] La page de guides du site Github.com](https://guides.github.com/)
+* [[ENG] La page de guides du site Github.com](https://guides.github.com/)
 * [[ENG] Oh Shit, Git!?! , un site qui aide à résoudre des problèmes courants dans Git](https://ohshitgit.com/)
 
 

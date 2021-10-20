@@ -12,7 +12,7 @@ Les catégories principales à ce jour sont:
 * [Javascript](https://github.com/Milan-L/Ressource-Formation/tree/main/JS)
 * [Tools](https://github.com/Milan-L/Ressource-Formation/tree/main/Tools)
 * [Git](https://github.com/Milan-L/Ressource-Formation/tree/main/Git)
-* [Github] (https://github.com/Milan-L/Ressource-Formation/tree/main/Github)
+* [Github](https://github.com/Milan-L/Ressource-Formation/tree/main/Github)
 * [Responsive](https://github.com/Milan-L/Ressource-Formation/tree/main/RESPONSIVE)
 
 
