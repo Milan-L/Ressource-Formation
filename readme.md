@@ -5,8 +5,8 @@ Ce repo a pour but de rassembler toutes les ressources partagées sur le discord
 Chacun peut contribuer à ajouter ses propres ressources tant qu'elles restent pertinentes pour le groupe. 
   
 
-<<<<<<< HEAD
-Les catégories principales à ce jour sont: 
+
+## Les catégories principales à ce jour sont: 
 * [HTML](https://github.com/Milan-L/Ressource-Formation/tree/main/HTML)
 * [CSS](https://github.com/Milan-L/Ressource-Formation/tree/main/CSS)
 * [Javascript](https://github.com/Milan-L/Ressource-Formation/tree/main/JS)

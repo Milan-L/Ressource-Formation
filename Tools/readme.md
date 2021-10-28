@@ -16,3 +16,4 @@ Vous pouvez également mettre la langue et le type de ressource à la fin du lie
 
 * [CodingGame Learn](https://www.codingame.com/learn)
 * [freeCodeCamp](https://www.freecodecamp.org/)
+* [[ENG] DevDoc, pour toute la documentation qu'un dev web peut avoir besoin même hors ligne !](https://devdocs.io)
